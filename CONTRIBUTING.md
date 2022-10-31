@@ -1,4 +1,10 @@
-#### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
+#### Name: [Anuj](https://github.com/x0PHANTOM0x)
+
+- Place: Nasik, Maharashtra, India
+- Bio: Computer science undergrad and an enthusiast machine learning scientist.
+- GitHub: [x0PHANTOM0x](https://github.com/adityasharma270103)
+
+#### Name: [ADITYA SHARMA](https://github.com/x0PHANTOM0x)
 
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani

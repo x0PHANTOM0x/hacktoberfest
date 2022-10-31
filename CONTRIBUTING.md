@@ -1,7 +1,7 @@
 #### Name: [Anuj](https://github.com/x0PHANTOM0x)
 
 - Place: Nasik, Maharashtra, India
-- Bio: Computer science undergrad and an enthusiast machine learning scientist.
+- Bio: Computer Science undergrad and an enthusiast machine learning scientist.
 - GitHub: [x0PHANTOM0x](https://github.com/adityasharma270103)
 
 #### Name: [ADITYA SHARMA](https://github.com/x0PHANTOM0x)
